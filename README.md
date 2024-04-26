@@ -6,7 +6,7 @@ This Python script demonstrates 3rd order polynomial regression using Matplotlib
 - Displays the regression curve as an animation in the notebook.
 
 ## Animation
-[![Watch the Training Animation]](https://youtu.be/pC4bMzm5Qto)
+[<img src="https://www.imsl.com/sites/default/files/image/2021-06/IMSL%20What%20is%20Regression%20Model%20Blog%20Feature.png" width="50%">](https://youtu.be/pC4bMzm5Qto)
 
 
 ## Requirements
