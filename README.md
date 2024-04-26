@@ -6,7 +6,7 @@ This Python script demonstrates 3rd order polynomial regression using Matplotlib
 - Displays the regression curve as an animation in the notebook.
 
 ## Animation
-[<img src="https://github.com/mechamind/Regression-Training-and-Visualization-using-Numpy/blob/main/images/thumbnail.png?raw=true" width="50%">](https://youtu.be/pC4bMzm5Qto)
+[](https://github.com/mechamind/Regression-Training-and-Visualization-using-Numpy/images/animation_training.gif)
 
 
 ## Requirements
